@@ -2,7 +2,7 @@
 #ifdef INPUT_GENERATION_H
 #include<iostream>
 using namespace std;
-class input
+class Input
 {
 public:
     void inputGeneration(string path);
