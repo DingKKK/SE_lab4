@@ -1,6 +1,7 @@
 #include"inputGeneration.h"
 #include<fstream>
 #include<iostream>
+#include <sstream>
 #include<string>
 using namespace std;
 void inputGeneration(string path)
@@ -12,50 +13,57 @@ void inputGeneration(string path)
 	ifstream stdinfile(sfile, ios::in);
 	if (!stdinfile) exit(-1);
 	char temp[100];
-	while (!(stdinfile.eof()))
+	ostringstream buf;
+	buf<<stdinfile.rdbuf()<<ends;
+	string str=buf.str();
+	for(int x=0;str[x]!='\0';++x)
 	{
-		stdinfile.getline(temp, 100);
-		string index;
-		int j = 0;
-		int i = 0;
-		char t1[20];
-		for (i=0; temp[i] != '('; ++i)
+		if(buf.str()[x]==' ')
+			continue;
+		if(x==0||(x>0&&str[x-1]==' '))
 		{
-			t1[j] = temp[i];
-			j++;
-		}
-		t1[j]='\0';
-		index=t1;
-		i++;
-		int left = 0;
-		int right = 0;
-		if (index != "char")
-		{
-			char l1[10];
-			char r1[10];
-			string l, r;
-			j = 0;
-			for (; temp[i] != ','; ++i)
+			string index;
+			int j = 0;
+			int i = x;
+			char t1[20];
+			for (i=x; str[i] != '('; ++i)
 			{
-				l1[j] = temp[i];
+				t1[j] = str[i];
 				j++;
 			}
+			t1[j]='\0';
+			index=t1;
 			i++;
-			l1[j]='\0';
-			l=l1;
-			j = 0;
-			for (; temp[i] != ')'; ++i)
+			int left = 0;
+			int right = 0;
+			if (index != "char")
 			{
-				r1[j] = temp[i];
-				j++;
+				char l1[10];
+				char r1[10];
+				string l, r;
+				j = 0;
+				for (; str[i] != ','; ++i)
+				{
+					l1[j] = str[i];
+					j++;
+				}
+				i++;
+				l1[j]='\0';
+				l=l1;
+				j = 0;
+				for (; str[i] != ')'; ++i)
+				{
+					r1[j] = str[i];
+					j++;
+				}
+				r1[j]='\0';
+				r=r1;
+				left = stoi(l);
+				right = stoi(r);
 			}
-			r1[j]='\0';
-			r=r1;
-			left = stoi(l);
-			right = stoi(r);
+			string input=generator(index.length(), left, right);
+			inputfile << input<<endl;
 		}
-		string input=generator(index.length(), left, right);
-		inputfile << input<<endl;
 	}
 	stdinfile.close();
 	inputfile.close();
