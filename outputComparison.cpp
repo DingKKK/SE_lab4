@@ -3,7 +3,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-void outputConversion(string filename, vector<string>& output)
+void Output::outputConversion(string filename, vector<string>& output)
 {
 	ifstream file(filename, ios::in);
 	if (!file) exit(-1);
@@ -15,7 +15,7 @@ void outputConversion(string filename, vector<string>& output)
 	}
 	file.close();
 }
-bool outputComparison(vector<string>& op1, vector<string>& op2)
+bool Output::outputComparison(vector<string>& op1, vector<string>& op2)
 {
 	int i = 0;
 	int j = 0;
