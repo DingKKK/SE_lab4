@@ -4,7 +4,7 @@
 #include <sstream>
 #include<string>
 using namespace std;
-void inputGeneration(string path)
+void input::inputGeneration(string path)
 {
 	string ifile = path + "/input.txt";
 	ofstream inputfile(ifile, ios::out);
@@ -68,7 +68,7 @@ void inputGeneration(string path)
 	stdinfile.close();
 	inputfile.close();
 }
-string generator(int index, int left, int right)
+string input::generator(int index, int left, int right)
 {
 	switch (index)
 	{
