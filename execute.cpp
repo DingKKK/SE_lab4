@@ -7,8 +7,10 @@ using namespace std;
 void Execute::execution(string path, string filename, vector<string>& op)
 {
 	Output output;
+	string sh = path + "/shCommand.sh";
+	string command="chmod u+x "+sh;
+	system(command.c_str());
     shCommandGeneration(path, filename);
-    string sh = path + "/shCommand.sh";
     system(sh.c_str());
     op.clear();
 	output.outputConversion(path + "/output.txt", op);

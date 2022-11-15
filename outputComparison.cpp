@@ -11,7 +11,6 @@ void Output::outputConversion(string filename, vector<string>& output)
 	while (!(file.eof()))
 	{
 		file.getline(temp, 100);
-		cout<<temp<<" ";
 		output.push_back(temp);
 	}
 	file.close();
@@ -22,6 +21,7 @@ bool Output::outputComparison(vector<string>& op1, vector<string>& op2)
 	int j = 0;
 	while (i < op1.size() && j < op2.size())
 	{
+		cout<<op1[i]<<" "<<op2[j]<<endl;
 		if (op1[i] != op2[j])
 		{
 			return false;
@@ -32,4 +32,5 @@ bool Output::outputComparison(vector<string>& op1, vector<string>& op2)
 			j++;
 		}
 	}
+	return true;
 }
