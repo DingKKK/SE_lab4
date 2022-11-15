@@ -12,7 +12,6 @@ void Input::inputGeneration(string path)
 	string sfile = path + "/stdin_format.txt";
 	ifstream stdinfile(sfile, ios::in);
 	if (!stdinfile) exit(-1);
-	char temp[100];
 	ostringstream buf;
 	buf<<stdinfile.rdbuf()<<ends;
 	string str=buf.str();

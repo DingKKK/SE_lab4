@@ -1,15 +1,17 @@
 #include<iostream>
 #include"execute.h"
 #include<string>
+#include<fstream>
 #include"outputComparison.h"
 using namespace std;
 void Execute::execution(string path, string filename, vector<string>& op)
 {
-    shCommandGeneration(path, filename[i]);
+	Output output;
+    shCommandGeneration(path, filename);
     string sh = path + "/shCommand.sh";
     system(sh.c_str());
     op.clear();
-	Output::outputConversion(path + "/output.txt", op);
+	output.outputConversion(path + "/output.txt", op);
 } 
 void Execute::shCommandGeneration(string path, string filename)
 {

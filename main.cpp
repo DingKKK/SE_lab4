@@ -15,7 +15,7 @@ int main()
 {
 	string p;
 	cin >> p;
-	string path="/home/njucs/SE_lab/input/"+p;
+	string path="/home/njucs/SE_lab4/input/"+p;
 	vector<string> filename;
 	DIR* pDir;
 	if (!(pDir = opendir(path.c_str()))) 
@@ -35,6 +35,7 @@ int main()
 	int flag=0;
 	vector<string> op1;
 	vector<string> op2;
+	Judge judge;
 	for (int i = 0; i < filename.size() - 1; ++i)
 	{
 		if(filename[i][filename[i].length() - 1]!='p')
@@ -45,7 +46,7 @@ int main()
 			if(filename[j][filename[j].length() - 1]!='p')
 				continue;
             else
-                Judge::judge(path,filename[i],filename[j]);
+                judge.judge(path,filename[i],filename[j]);
 		}
 	}
 }

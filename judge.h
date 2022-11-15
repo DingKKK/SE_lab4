@@ -9,3 +9,4 @@ class Judge
 public:
     void judge(string path, string file1, string file2);
 };
+#endif
