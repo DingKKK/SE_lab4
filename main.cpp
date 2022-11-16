@@ -13,12 +13,7 @@
 using namespace std;
 int main()
 {
-	// string inequalfile = "/home/njucs/SE_lab4/output/inequal.csv";
-    // ofstream ifile(inequalfile, ios::app);
-	// ifile.clear();
-	// string equalfile = "/home/njucs/SE_lab4/output/equal.csv";
-    // ofstream efile(equalfile, ios::app);
-	// efile.clear();
+	cout<<"for use of reset"<<endl;
 	string p;
 	cin >> p;
 	string fatherPath="/home/njucs/SE_lab4/"+p;	
