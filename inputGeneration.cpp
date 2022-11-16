@@ -61,6 +61,7 @@ void Input::inputGeneration(string path)
 				right = stoi(r);
 			}
 			string input=generator(index.length(), left, right);
+			//cout<<input<<endl;
 			inputfile << input<<" ";
 		}
 	}

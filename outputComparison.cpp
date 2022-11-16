@@ -21,7 +21,7 @@ bool Output::outputComparison(vector<string>& op1, vector<string>& op2)
 	int j = 0;
 	while (i < op1.size() && j < op2.size())
 	{
-		cout<<op1[i]<<" "<<op2[j]<<endl;
+		//cout<<op1[i]<<" "<<op2[j]<<endl;
 		if (op1[i] != op2[j])
 		{
 			return false;

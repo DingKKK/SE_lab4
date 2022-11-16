@@ -13,6 +13,18 @@ void Execute::execution(string path, string filename, vector<string>& op)
     shCommandGeneration(path, filename);
     system(sh.c_str());
     op.clear();
+	ifstream file1(path+"/output.txt",ios::in);
+	if (!file1) exit(-1);
+	ofstream file2(path+"/out.txt",ios::app);
+	if (!file2) exit(-1);
+	char temp[100];
+	while(!file1.eof())
+	{
+		file1.getline(temp,100);
+		file2<<filename<<" "<<temp<<endl;
+	}
+	file1.close();
+	file2.close();
 	output.outputConversion(path + "/output.txt", op);
 } 
 void Execute::shCommandGeneration(string path, string filename)
@@ -23,7 +35,7 @@ void Execute::shCommandGeneration(string path, string filename)
 	if (!file) exit(-1);
 	string command4 ="#! /bin/bash";
 	file << command4 <<endl;
-	string command1 = "g++ -m64 " + filename + " -o "+path+"/a.out";
+	string command1 = "g++ " + filename + " -o "+path+"/a.out";
 	file << command1 << endl;
 	string command2="chmod u+x "+path+"/a.out";
 	file << command2 << endl;

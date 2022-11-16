@@ -13,40 +13,67 @@
 using namespace std;
 int main()
 {
+	// string inequalfile = "/home/njucs/SE_lab4/output/inequal.csv";
+    // ofstream ifile(inequalfile, ios::app);
+	// ifile.clear();
+	// string equalfile = "/home/njucs/SE_lab4/output/equal.csv";
+    // ofstream efile(equalfile, ios::app);
+	// efile.clear();
 	string p;
 	cin >> p;
-	string path="/home/njucs/SE_lab4/input/"+p;
-	vector<string> filename;
-	DIR* pDir;
-	if (!(pDir = opendir(path.c_str()))) 
+	string fatherPath="/home/njucs/SE_lab4/"+p;	
+	DIR* fatherDir;
+	if (!(fatherDir = opendir(fatherPath.c_str()))) 
 	{
-		cout << "Fail to open folder." << endl;
+		cout << "Fail to open father folder." << endl;
 		exit(-1);
 	}
-	struct dirent* ptr;
-	while ((ptr = readdir(pDir)) != 0) 
+	struct dirent* fatherPtr;
+	struct dirent* ptr;	
+	DIR* pDir;
+	vector<string> filename;
+	vector<string> path;
+	while ((fatherPtr = readdir(fatherDir)) != 0) 
 	{
-		if (strcmp(ptr->d_name, ".") != 0 && strcmp(ptr->d_name, "..") != 0) 
+		if (strcmp(fatherPtr->d_name, ".") != 0 && strcmp(fatherPtr->d_name, "..") != 0) 
 		{
-			filename.push_back(path + "/" + ptr->d_name);
+			path.push_back(fatherPath + "/" + fatherPtr->d_name);
 		}
+		
 	}
-	closedir(pDir);
-	int flag=0;
-	vector<string> op1;
-	vector<string> op2;
-	Judge judge;
-	for (int i = 0; i < filename.size() - 1; ++i)
+	closedir(fatherDir);
+	
+	for(int x=0;x<path.size();++x)
 	{
-		if(filename[i][filename[i].length() - 1]!='p')
-			continue;
-		for (int j = i + 1; j < filename.size(); ++j)
+		filename.clear();
+		if (!(pDir = opendir(path[x].c_str()))) 
 		{
-			
-			if(filename[j][filename[j].length() - 1]!='p')
+			cout << "Fail to open folder." << endl;
+			exit(-1);
+		}
+		while ((ptr = readdir(pDir)) != 0) 
+		{
+			if (strcmp(ptr->d_name, ".") != 0 && strcmp(ptr->d_name, "..") != 0) 
+			{
+				filename.push_back(path[x] + "/" + ptr->d_name);
+			}
+		}
+		closedir(pDir);
+		vector<string> op1;
+		vector<string> op2;
+		Judge judge;
+		for (int i = 0; i < filename.size() - 1; ++i)
+		{
+			if(filename[i][filename[i].length() - 1]!='p')
 				continue;
-            else
-                judge.judge(path,filename[i],filename[j]);
+			for (int j = i + 1; j < filename.size(); ++j)
+			{
+				
+				if(filename[j][filename[j].length() - 1]!='p')
+					continue;
+				else
+					judge.judge(path[x],filename[i],filename[j]);
+			}
 		}
 	}
 }

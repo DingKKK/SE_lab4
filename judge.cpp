@@ -4,7 +4,7 @@
 #include"outputComparison.h"
 #include<iostream>
 #include<fstream>
-#define M 1
+#define M 20
 using namespace std;
 void Judge::judge(string path, string file1, string file2)
 {
@@ -21,11 +21,14 @@ void Judge::judge(string path, string file1, string file2)
         input.inputGeneration(path);
         execute.execution(path,file1,op1);
         execute.execution(path,file2,op2);
+        ofstream file22(path+"/out.txt",ios::app);
+	    if (!file22) exit(-1);
+        file22<<endl;
         if (!output.outputComparison(op1, op2))
         {
-            string inequalfile = path + "/inequal.csv";
+            string inequalfile = "/home/njucs/SE_lab4/output/inequal.csv";
             ofstream file(inequalfile, ios::app);
-            file << file1 + "," + file1<<endl;
+            file << file1 + "," + file2<<endl;
             file.close();
             flag=1;
             break;
@@ -33,9 +36,9 @@ void Judge::judge(string path, string file1, string file2)
     }
     if(flag==0)
     {
-        string equalfile = path + "/equal.csv";
+        string equalfile = "/home/njucs/SE_lab4/output/equal.csv";
         ofstream file(equalfile, ios::app);
-        file << file1 + "," + file1<<endl;
+        file << file1 + "," + file2<<endl;
         file.close();
     }
 }
