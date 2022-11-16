@@ -7,7 +7,7 @@ using namespace std;
 class Execute
 {
 public:
-    void execution(string path, string filename, vector<string>& op);
-    void shCommandGeneration(string path, string filename);
+    void execution(string path, string filename, int index);
+    void shCommandGeneration(string path, string filename, int index);
 };
 #endif

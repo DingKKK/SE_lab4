@@ -4,30 +4,15 @@
 #include<fstream>
 #include"outputComparison.h"
 using namespace std;
-void Execute::execution(string path, string filename, vector<string>& op)
+void Execute::execution(string path, string filename, int index)
 {
-	Output output;
 	string sh = path + "/shCommand.sh";
 	string command="chmod u+x "+sh;
 	system(command.c_str());
-    shCommandGeneration(path, filename);
+    shCommandGeneration(path, filename, index);
     system(sh.c_str());
-    op.clear();
-	ifstream file1(path+"/output.txt",ios::in);
-	if (!file1) exit(-1);
-	ofstream file2(path+"/out.txt",ios::app);
-	if (!file2) exit(-1);
-	char temp[100];
-	while(!file1.eof())
-	{
-		file1.getline(temp,100);
-		file2<<filename<<" "<<temp<<endl;
-	}
-	file1.close();
-	file2.close();
-	output.outputConversion(path + "/output.txt", op);
 } 
-void Execute::shCommandGeneration(string path, string filename)
+void Execute::shCommandGeneration(string path, string filename, int index)
 {
     string inFormat = path + "/stdin_format.txt";
 	string sh = path + "/shCommand.sh";
@@ -39,7 +24,11 @@ void Execute::shCommandGeneration(string path, string filename)
 	file << command1 << endl;
 	string command2="chmod u+x "+path+"/a.out";
 	file << command2 << endl;
-	string command3 = path+"/a.out <" + path + "/input.txt" + " >" + path + "/output.txt 2>&1";
+	string command3;
+	if(index==1)
+		command3 = path+"/a.out <" + path + "/input.txt" + " >" + path + "/output1.txt 2>&1";
+	else if(index==2)
+		command3 = path+"/a.out <" + path + "/input.txt" + " >" + path + "/output2.txt 2>&1";
 	file << command3;
 	file.close();
 }

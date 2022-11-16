@@ -6,8 +6,13 @@
 using namespace std;
 class Output
 {
+private:
+    vector<string> op1;
+    vector<string> op2;
 public:
-    void outputConversion(string filename, vector<string>& output);
-    bool outputComparison(vector<string>& op1,vector<string>& op2);
+    void clearOp1(){op1.clear();}
+    void clearOp2(){op2.clear();}
+    void outputConversion(string filename,int index);
+    bool outputComparison(string path);
 };
 #endif

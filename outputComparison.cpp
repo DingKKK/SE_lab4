@@ -3,7 +3,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-void Output::outputConversion(string filename, vector<string>& output)
+void Output::outputConversion(string filename,int index)
 {
 	ifstream file(filename, ios::in);
 	if (!file) exit(-1);
@@ -11,17 +11,21 @@ void Output::outputConversion(string filename, vector<string>& output)
 	while (!(file.eof()))
 	{
 		file.getline(temp, 100);
-		output.push_back(temp);
+		if(index==1)
+			op1.push_back(temp);
+		else
+			op2.push_back(temp);
 	}
 	file.close();
 }
-bool Output::outputComparison(vector<string>& op1, vector<string>& op2)
+bool Output::outputComparison(string path)
 {
+	outputConversion(path+"/output1.txt",1);
+	outputConversion(path+"/output2.txt",2);
 	int i = 0;
 	int j = 0;
 	while (i < op1.size() && j < op2.size())
 	{
-		//cout<<op1[i]<<" "<<op2[j]<<endl;
 		if (op1[i] != op2[j])
 		{
 			return false;
