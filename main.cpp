@@ -13,7 +13,6 @@
 using namespace std;
 int main()
 {
-	cout<<"for use of reset"<<endl;
 	string p;
 	cin >> p;
 	string fatherPath="/home/njucs/SE_lab4/"+p;	
