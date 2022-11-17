@@ -1,4 +1,4 @@
 #! /bin/bash
-g++ -m64 /home/njucs/SE_lab4/input/4A/117364748.cpp -o /home/njucs/SE_lab4/input/4A/a.out
-chmod u+x /home/njucs/SE_lab4/input/4A/a.out
-/home/njucs/SE_lab4/input/4A/a.out </home/njucs/SE_lab4/input/4A/input.txt >/home/njucs/SE_lab4/input/4A/output.txt 2>&1
+g++ ./input/4A/117364748.cpp -o ./input/4A/a.out
+chmod u+x ./input/4A/a.out
+./input/4A/a.out <./input/4A/input.txt >./input/4A/output2.txt 2>&1

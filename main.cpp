@@ -5,17 +5,14 @@
 #include <stdlib.h>
 #include<fstream>
 #include<string>
-#include"execute.h"
 #include"judge.h"
-#include"inputGeneration.h"
-#include"outputComparison.h"
 #define M 1
 using namespace std;
 int main()
 {
 	string p;
 	cin >> p;
-	string fatherPath="/home/njucs/SE_lab4/"+p;	
+	string fatherPath="./"+p;	
 	DIR* fatherDir;
 	if (!(fatherDir = opendir(fatherPath.c_str()))) 
 	{

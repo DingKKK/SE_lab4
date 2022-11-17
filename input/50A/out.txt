@@ -1,0 +1,3226 @@
+8
+9
+18
+
+33
+33
+42
+42
+36
+36
+75
+75
+30
+30
+21
+21
+42
+42
+12
+12
+15
+15
+7
+7
+2
+2
+91
+91
+4
+
+75
+
+2
+2
+13
+13
+15
+
+9
+15
+13
+44
+19
+78
+15
+56
+15
+58
+17
+71
+7
+
+13
+
+22
+104
+
+32
+
+54
+
+19
+
+82
+
+24
+
+60
+
+
+
+
+
+
+
+
+
+15
+67
+67
+10
+10
+65
+65
+54
+54
+80
+80
+6
+6
+12
+12
+12
+12
+64
+64
+5
+5
+11
+
+33
+
+72
+72
+4
+4
+20
+20
+112
+112
+30
+30
+58
+58
+30
+30
+15
+15
+22
+22
+45
+45
+60
+
+24
+
+2
+2
+5
+5
+75
+75
+71
+71
+32
+32
+18
+18
+8
+8
+24
+24
+28
+
+4
+
+24
+24
+78
+78
+24
+24
+55
+55
+84
+84
+36
+36
+11
+
+104
+
+18
+18
+45
+45
+30
+30
+12
+12
+82
+
+40
+
+13
+13
+5
+5
+98
+
+32
+
+120
+120
+44
+44
+
+
+
+
+
+7
+
+66
+/home/njucs/SE_lab4/input/50A/21715601.cpp 8
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+/home/njucs/SE_lab4/input/50A/21715601.cpp 18
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21715601.cpp 33
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508898.cpp 42
+/home/njucs/SE_lab4/input/50A/21715601.cpp 36
+/home/njucs/SE_lab4/input/50A/164831265.cpp 36
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/164831265.cpp 75
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/33794240.cpp 30
+/home/njucs/SE_lab4/input/50A/21715601.cpp 21
+/home/njucs/SE_lab4/input/50A/33794240.cpp 21
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508887.cpp 42
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+/home/njucs/SE_lab4/input/50A/21715601.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/29019948.cpp 2
+/home/njucs/SE_lab4/input/50A/21715601.cpp 91
+/home/njucs/SE_lab4/input/50A/29019948.cpp 91
+/home/njucs/SE_lab4/input/50A/21715601.cpp 4
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+/home/njucs/SE_lab4/input/50A/21715601.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/164831265.cpp 44
+/home/njucs/SE_lab4/input/50A/45851050.cpp 19
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 58
+/home/njucs/SE_lab4/input/50A/45851050.cpp 17
+/home/njucs/SE_lab4/input/50A/29019948.cpp 71
+/home/njucs/SE_lab4/input/50A/45851050.cpp 7
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/45851050.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 104
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508898.cpp 32
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/164831265.cpp 54
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/33794240.cpp 19
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508887.cpp 82
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+/home/njucs/SE_lab4/input/50A/21508898.cpp 67
+/home/njucs/SE_lab4/input/50A/164831265.cpp 67
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/164831265.cpp 10
+/home/njucs/SE_lab4/input/50A/21508898.cpp 65
+/home/njucs/SE_lab4/input/50A/33794240.cpp 65
+/home/njucs/SE_lab4/input/50A/21508898.cpp 54
+/home/njucs/SE_lab4/input/50A/33794240.cpp 54
+/home/njucs/SE_lab4/input/50A/21508898.cpp 80
+/home/njucs/SE_lab4/input/50A/21508887.cpp 80
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+/home/njucs/SE_lab4/input/50A/29019948.cpp 64
+/home/njucs/SE_lab4/input/50A/21508898.cpp 5
+/home/njucs/SE_lab4/input/50A/29019948.cpp 5
+/home/njucs/SE_lab4/input/50A/21508898.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/21508898.cpp 72
+/home/njucs/SE_lab4/input/50A/36641065.cpp 72
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+/home/njucs/SE_lab4/input/50A/164831265.cpp 20
+/home/njucs/SE_lab4/input/50A/33794240.cpp 20
+/home/njucs/SE_lab4/input/50A/164831265.cpp 112
+/home/njucs/SE_lab4/input/50A/33794240.cpp 112
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/21508887.cpp 30
+/home/njucs/SE_lab4/input/50A/164831265.cpp 58
+/home/njucs/SE_lab4/input/50A/21508887.cpp 58
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+/home/njucs/SE_lab4/input/50A/164831265.cpp 22
+/home/njucs/SE_lab4/input/50A/29019948.cpp 22
+/home/njucs/SE_lab4/input/50A/164831265.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+/home/njucs/SE_lab4/input/50A/164831265.cpp 60
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/164831265.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+/home/njucs/SE_lab4/input/50A/164831265.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+/home/njucs/SE_lab4/input/50A/33794240.cpp 75
+/home/njucs/SE_lab4/input/50A/21508887.cpp 75
+/home/njucs/SE_lab4/input/50A/33794240.cpp 71
+/home/njucs/SE_lab4/input/50A/21508887.cpp 71
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+/home/njucs/SE_lab4/input/50A/33794240.cpp 8
+/home/njucs/SE_lab4/input/50A/29019948.cpp 8
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/29019948.cpp 24
+/home/njucs/SE_lab4/input/50A/33794240.cpp 28
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/33794240.cpp 4
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+/home/njucs/SE_lab4/input/50A/36641065.cpp 78
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+/home/njucs/SE_lab4/input/50A/21508887.cpp 55
+/home/njucs/SE_lab4/input/50A/31034693.cpp 55
+/home/njucs/SE_lab4/input/50A/21508887.cpp 84
+/home/njucs/SE_lab4/input/50A/29019948.cpp 84
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+/home/njucs/SE_lab4/input/50A/29019948.cpp 36
+/home/njucs/SE_lab4/input/50A/21508887.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/21508887.cpp 104
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+/home/njucs/SE_lab4/input/50A/36641065.cpp 45
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+/home/njucs/SE_lab4/input/50A/29019948.cpp 30
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 82
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/31034693.cpp 40
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/31034693.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+/home/njucs/SE_lab4/input/50A/31034693.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+/home/njucs/SE_lab4/input/50A/29019948.cpp 98
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/29019948.cpp 120
+/home/njucs/SE_lab4/input/50A/36641065.cpp 120
+/home/njucs/SE_lab4/input/50A/29019948.cpp 44
+/home/njucs/SE_lab4/input/50A/36641065.cpp 44
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 7
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 66
+/home/njucs/SE_lab4/input/50A/21715601.cpp 8
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 18
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 33
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508898.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 36
+/home/njucs/SE_lab4/input/50A/164831265.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/164831265.cpp 75
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/33794240.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 21
+/home/njucs/SE_lab4/input/50A/33794240.cpp 21
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508887.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/29019948.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 91
+/home/njucs/SE_lab4/input/50A/29019948.cpp 91
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 4
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/164831265.cpp 44
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 19
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 58
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 17
+/home/njucs/SE_lab4/input/50A/29019948.cpp 71
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 7
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 104
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508898.cpp 32
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/164831265.cpp 54
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/33794240.cpp 19
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508887.cpp 82
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 67
+/home/njucs/SE_lab4/input/50A/164831265.cpp 67
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/164831265.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 65
+/home/njucs/SE_lab4/input/50A/33794240.cpp 65
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 54
+/home/njucs/SE_lab4/input/50A/33794240.cpp 54
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 80
+/home/njucs/SE_lab4/input/50A/21508887.cpp 80
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+/home/njucs/SE_lab4/input/50A/29019948.cpp 64
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 5
+/home/njucs/SE_lab4/input/50A/29019948.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 72
+/home/njucs/SE_lab4/input/50A/36641065.cpp 72
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 20
+/home/njucs/SE_lab4/input/50A/33794240.cpp 20
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 112
+/home/njucs/SE_lab4/input/50A/33794240.cpp 112
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/21508887.cpp 30
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 58
+/home/njucs/SE_lab4/input/50A/21508887.cpp 58
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 22
+/home/njucs/SE_lab4/input/50A/29019948.cpp 22
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 60
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 75
+/home/njucs/SE_lab4/input/50A/21508887.cpp 75
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 71
+/home/njucs/SE_lab4/input/50A/21508887.cpp 71
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 8
+/home/njucs/SE_lab4/input/50A/29019948.cpp 8
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/29019948.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 28
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 4
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+/home/njucs/SE_lab4/input/50A/36641065.cpp 78
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 55
+/home/njucs/SE_lab4/input/50A/31034693.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 84
+/home/njucs/SE_lab4/input/50A/29019948.cpp 84
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+/home/njucs/SE_lab4/input/50A/29019948.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 104
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+/home/njucs/SE_lab4/input/50A/36641065.cpp 45
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+/home/njucs/SE_lab4/input/50A/29019948.cpp 30
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 82
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 40
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 98
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 120
+/home/njucs/SE_lab4/input/50A/36641065.cpp 120
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 44
+/home/njucs/SE_lab4/input/50A/36641065.cpp 44
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 7
+
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 66
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 8
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 18
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 33
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508898.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 36
+/home/njucs/SE_lab4/input/50A/164831265.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/164831265.cpp 75
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/33794240.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 21
+/home/njucs/SE_lab4/input/50A/33794240.cpp 21
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508887.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/29019948.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 91
+/home/njucs/SE_lab4/input/50A/29019948.cpp 91
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 4
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/164831265.cpp 44
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 19
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 58
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 17
+/home/njucs/SE_lab4/input/50A/29019948.cpp 71
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 7
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 104
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508898.cpp 32
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/164831265.cpp 54
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/33794240.cpp 19
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508887.cpp 82
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 67
+/home/njucs/SE_lab4/input/50A/164831265.cpp 67
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/164831265.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 65
+/home/njucs/SE_lab4/input/50A/33794240.cpp 65
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 54
+/home/njucs/SE_lab4/input/50A/33794240.cpp 54
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 80
+/home/njucs/SE_lab4/input/50A/21508887.cpp 80
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+/home/njucs/SE_lab4/input/50A/29019948.cpp 64
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 5
+/home/njucs/SE_lab4/input/50A/29019948.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 72
+/home/njucs/SE_lab4/input/50A/36641065.cpp 72
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 20
+/home/njucs/SE_lab4/input/50A/33794240.cpp 20
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 112
+/home/njucs/SE_lab4/input/50A/33794240.cpp 112
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/21508887.cpp 30
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 58
+/home/njucs/SE_lab4/input/50A/21508887.cpp 58
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 22
+/home/njucs/SE_lab4/input/50A/29019948.cpp 22
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 60
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 75
+/home/njucs/SE_lab4/input/50A/21508887.cpp 75
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 71
+/home/njucs/SE_lab4/input/50A/21508887.cpp 71
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 8
+/home/njucs/SE_lab4/input/50A/29019948.cpp 8
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/29019948.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 28
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 4
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+/home/njucs/SE_lab4/input/50A/36641065.cpp 78
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 55
+/home/njucs/SE_lab4/input/50A/31034693.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 84
+/home/njucs/SE_lab4/input/50A/29019948.cpp 84
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+/home/njucs/SE_lab4/input/50A/29019948.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 104
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+/home/njucs/SE_lab4/input/50A/36641065.cpp 45
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+/home/njucs/SE_lab4/input/50A/29019948.cpp 30
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 82
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 40
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 98
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 120
+/home/njucs/SE_lab4/input/50A/36641065.cpp 120
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 44
+/home/njucs/SE_lab4/input/50A/36641065.cpp 44
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 7
+
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 66
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 8
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 18
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 33
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508898.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 36
+/home/njucs/SE_lab4/input/50A/164831265.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/164831265.cpp 75
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/33794240.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 21
+/home/njucs/SE_lab4/input/50A/33794240.cpp 21
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 42
+/home/njucs/SE_lab4/input/50A/21508887.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/29019948.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 91
+/home/njucs/SE_lab4/input/50A/29019948.cpp 91
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 4
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/164831265.cpp 44
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 19
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 58
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 17
+/home/njucs/SE_lab4/input/50A/29019948.cpp 71
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 7
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 104
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508898.cpp 32
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/164831265.cpp 54
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/33794240.cpp 19
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508887.cpp 82
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 67
+/home/njucs/SE_lab4/input/50A/164831265.cpp 67
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/164831265.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 65
+/home/njucs/SE_lab4/input/50A/33794240.cpp 65
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 54
+/home/njucs/SE_lab4/input/50A/33794240.cpp 54
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 80
+/home/njucs/SE_lab4/input/50A/21508887.cpp 80
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+/home/njucs/SE_lab4/input/50A/29019948.cpp 64
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 5
+/home/njucs/SE_lab4/input/50A/29019948.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 72
+/home/njucs/SE_lab4/input/50A/36641065.cpp 72
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 20
+/home/njucs/SE_lab4/input/50A/33794240.cpp 20
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 112
+/home/njucs/SE_lab4/input/50A/33794240.cpp 112
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/21508887.cpp 30
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 58
+/home/njucs/SE_lab4/input/50A/21508887.cpp 58
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 22
+/home/njucs/SE_lab4/input/50A/29019948.cpp 22
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 60
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 75
+/home/njucs/SE_lab4/input/50A/21508887.cpp 75
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 71
+/home/njucs/SE_lab4/input/50A/21508887.cpp 71
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 8
+/home/njucs/SE_lab4/input/50A/29019948.cpp 8
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/29019948.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 28
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 4
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+/home/njucs/SE_lab4/input/50A/36641065.cpp 78
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 55
+/home/njucs/SE_lab4/input/50A/31034693.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 84
+/home/njucs/SE_lab4/input/50A/29019948.cpp 84
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+/home/njucs/SE_lab4/input/50A/29019948.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 11
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 104
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+/home/njucs/SE_lab4/input/50A/36641065.cpp 45
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+/home/njucs/SE_lab4/input/50A/29019948.cpp 30
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 82
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 40
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 98
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 120
+/home/njucs/SE_lab4/input/50A/36641065.cpp 120
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 44
+/home/njucs/SE_lab4/input/50A/36641065.cpp 44
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 7
+
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 66
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 21
+/home/njucs/SE_lab4/input/50A/45851050.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 84
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 67
+/home/njucs/SE_lab4/input/50A/21508898.cpp 67
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 10
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 65
+/home/njucs/SE_lab4/input/50A/21508898.cpp 65
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 54
+/home/njucs/SE_lab4/input/50A/21508898.cpp 54
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 80
+/home/njucs/SE_lab4/input/50A/21508898.cpp 80
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 6
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 64
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 5
+/home/njucs/SE_lab4/input/50A/21508898.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 11
+/home/njucs/SE_lab4/input/50A/21508898.cpp 11
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 33
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 72
+/home/njucs/SE_lab4/input/50A/21508898.cpp 72
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 4
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 20
+/home/njucs/SE_lab4/input/50A/21508898.cpp 20
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 112
+/home/njucs/SE_lab4/input/50A/21508898.cpp 112
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/21508898.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 58
+/home/njucs/SE_lab4/input/50A/21508898.cpp 58
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/21508898.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 22
+/home/njucs/SE_lab4/input/50A/164831265.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 45
+/home/njucs/SE_lab4/input/50A/164831265.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 60
+/home/njucs/SE_lab4/input/50A/164831265.cpp 60
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 24
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/164831265.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 5
+/home/njucs/SE_lab4/input/50A/164831265.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 75
+/home/njucs/SE_lab4/input/50A/164831265.cpp 75
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 71
+/home/njucs/SE_lab4/input/50A/164831265.cpp 71
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 32
+/home/njucs/SE_lab4/input/50A/164831265.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 18
+/home/njucs/SE_lab4/input/50A/164831265.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 8
+/home/njucs/SE_lab4/input/50A/164831265.cpp 8
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 24
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 28
+/home/njucs/SE_lab4/input/50A/164831265.cpp 28
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 4
+/home/njucs/SE_lab4/input/50A/164831265.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 24
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 78
+/home/njucs/SE_lab4/input/50A/164831265.cpp 78
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 24
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 55
+/home/njucs/SE_lab4/input/50A/164831265.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 84
+/home/njucs/SE_lab4/input/50A/164831265.cpp 84
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 36
+/home/njucs/SE_lab4/input/50A/33794240.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 11
+/home/njucs/SE_lab4/input/50A/33794240.cpp 11
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 104
+/home/njucs/SE_lab4/input/50A/33794240.cpp 104
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 18
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 45
+/home/njucs/SE_lab4/input/50A/33794240.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/33794240.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/33794240.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 82
+/home/njucs/SE_lab4/input/50A/33794240.cpp 82
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 40
+/home/njucs/SE_lab4/input/50A/33794240.cpp 40
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 13
+/home/njucs/SE_lab4/input/50A/33794240.cpp 13
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 5
+/home/njucs/SE_lab4/input/50A/33794240.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 98
+/home/njucs/SE_lab4/input/50A/33794240.cpp 98
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 32
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 120
+/home/njucs/SE_lab4/input/50A/33794240.cpp 120
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 44
+/home/njucs/SE_lab4/input/50A/33794240.cpp 44
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 78
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 39
+/home/njucs/SE_lab4/input/50A/33794240.cpp 39
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 7
+/home/njucs/SE_lab4/input/50A/33794240.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 66
+/home/njucs/SE_lab4/input/50A/33794240.cpp 66
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 33
+/home/njucs/SE_lab4/input/50A/33794240.cpp 33
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 22
+/home/njucs/SE_lab4/input/50A/21508887.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 3
+/home/njucs/SE_lab4/input/50A/21508887.cpp 3
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 24
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 32
+/home/njucs/SE_lab4/input/50A/21508887.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 14
+/home/njucs/SE_lab4/input/50A/21508887.cpp 14
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 10
+/home/njucs/SE_lab4/input/50A/21508887.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 24
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/21508887.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 120
+/home/njucs/SE_lab4/input/50A/21508887.cpp 120
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 9
+/home/njucs/SE_lab4/input/50A/21508887.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 70
+/home/njucs/SE_lab4/input/50A/21508887.cpp 70
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 22
+/home/njucs/SE_lab4/input/50A/21508887.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 45
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/21508887.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 16
+/home/njucs/SE_lab4/input/50A/21508887.cpp 16
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 25
+/home/njucs/SE_lab4/input/50A/21508887.cpp 25
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 49
+/home/njucs/SE_lab4/input/50A/21508887.cpp 49
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 71
+/home/njucs/SE_lab4/input/50A/21508887.cpp 71
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 45
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 40
+/home/njucs/SE_lab4/input/50A/21508887.cpp 40
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 32
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 24
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 97
+/home/njucs/SE_lab4/input/50A/31034693.cpp 97
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 56
+/home/njucs/SE_lab4/input/50A/31034693.cpp 56
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 60
+/home/njucs/SE_lab4/input/50A/31034693.cpp 60
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 9
+/home/njucs/SE_lab4/input/50A/31034693.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 17
+/home/njucs/SE_lab4/input/50A/31034693.cpp 17
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 32
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 28
+/home/njucs/SE_lab4/input/50A/31034693.cpp 28
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 40
+/home/njucs/SE_lab4/input/50A/31034693.cpp 40
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 98
+/home/njucs/SE_lab4/input/50A/31034693.cpp 98
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 17
+/home/njucs/SE_lab4/input/50A/31034693.cpp 17
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 60
+/home/njucs/SE_lab4/input/50A/31034693.cpp 60
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 19
+/home/njucs/SE_lab4/input/50A/31034693.cpp 19
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 71
+/home/njucs/SE_lab4/input/50A/31034693.cpp 71
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/31034693.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 3
+/home/njucs/SE_lab4/input/50A/31034693.cpp 3
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 78
+/home/njucs/SE_lab4/input/50A/31034693.cpp 78
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 78
+/home/njucs/SE_lab4/input/50A/29019948.cpp 78
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 5
+/home/njucs/SE_lab4/input/50A/29019948.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 38
+/home/njucs/SE_lab4/input/50A/29019948.cpp 38
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/29019948.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 6
+/home/njucs/SE_lab4/input/50A/29019948.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 65
+/home/njucs/SE_lab4/input/50A/29019948.cpp 65
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 16
+/home/njucs/SE_lab4/input/50A/29019948.cpp 16
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 40
+/home/njucs/SE_lab4/input/50A/29019948.cpp 40
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/29019948.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 10
+/home/njucs/SE_lab4/input/50A/29019948.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 20
+/home/njucs/SE_lab4/input/50A/29019948.cpp 20
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 20
+/home/njucs/SE_lab4/input/50A/29019948.cpp 20
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 7
+/home/njucs/SE_lab4/input/50A/29019948.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 1
+/home/njucs/SE_lab4/input/50A/29019948.cpp 1
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 31
+/home/njucs/SE_lab4/input/50A/29019948.cpp 31
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/29019948.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/29019948.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 32
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 22
+/home/njucs/SE_lab4/input/50A/29019948.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 55
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 35
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 60
+/home/njucs/SE_lab4/input/50A/36641065.cpp 60
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 55
+/home/njucs/SE_lab4/input/50A/36641065.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 97
+/home/njucs/SE_lab4/input/50A/36641065.cpp 97
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 15
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 12
+/home/njucs/SE_lab4/input/50A/36641065.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/36641065.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 10
+/home/njucs/SE_lab4/input/50A/36641065.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 1
+/home/njucs/SE_lab4/input/50A/36641065.cpp 1
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 20
+/home/njucs/SE_lab4/input/50A/36641065.cpp 20
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 90
+/home/njucs/SE_lab4/input/50A/36641065.cpp 90
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 65
+/home/njucs/SE_lab4/input/50A/36641065.cpp 65
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 72
+/home/njucs/SE_lab4/input/50A/36641065.cpp 72
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 30
+/home/njucs/SE_lab4/input/50A/36641065.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21715601.cpp 16
+/home/njucs/SE_lab4/input/50A/36641065.cpp 16
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 3
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 11
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+/home/njucs/SE_lab4/input/50A/164831265.cpp 22
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 10
+/home/njucs/SE_lab4/input/50A/33794240.cpp 27
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 8
+/home/njucs/SE_lab4/input/50A/21508887.cpp 17
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 5
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 14
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 13
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 9
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/45851050.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508898.cpp 88
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/164831265.cpp 1
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/33794240.cpp 25
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/21508887.cpp 97
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/142890373.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 21
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 5
+/home/njucs/SE_lab4/input/50A/164831265.cpp 5
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 48
+/home/njucs/SE_lab4/input/50A/164831265.cpp 48
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 16
+/home/njucs/SE_lab4/input/50A/164831265.cpp 16
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 71
+/home/njucs/SE_lab4/input/50A/164831265.cpp 71
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 75
+/home/njucs/SE_lab4/input/50A/164831265.cpp 75
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 7
+/home/njucs/SE_lab4/input/50A/164831265.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 31
+/home/njucs/SE_lab4/input/50A/164831265.cpp 31
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 71
+/home/njucs/SE_lab4/input/50A/164831265.cpp 71
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 38
+/home/njucs/SE_lab4/input/50A/164831265.cpp 38
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 7
+/home/njucs/SE_lab4/input/50A/164831265.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 49
+/home/njucs/SE_lab4/input/50A/164831265.cpp 49
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/164831265.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 66
+/home/njucs/SE_lab4/input/50A/164831265.cpp 66
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 72
+/home/njucs/SE_lab4/input/50A/164831265.cpp 72
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/164831265.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 2
+/home/njucs/SE_lab4/input/50A/164831265.cpp 2
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 112
+/home/njucs/SE_lab4/input/50A/164831265.cpp 112
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 18
+/home/njucs/SE_lab4/input/50A/164831265.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 71
+/home/njucs/SE_lab4/input/50A/164831265.cpp 71
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 44
+/home/njucs/SE_lab4/input/50A/33794240.cpp 44
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 70
+/home/njucs/SE_lab4/input/50A/33794240.cpp 70
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/33794240.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 65
+/home/njucs/SE_lab4/input/50A/33794240.cpp 65
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 60
+/home/njucs/SE_lab4/input/50A/33794240.cpp 60
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 1
+/home/njucs/SE_lab4/input/50A/33794240.cpp 1
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 38
+/home/njucs/SE_lab4/input/50A/33794240.cpp 38
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 22
+/home/njucs/SE_lab4/input/50A/33794240.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+/home/njucs/SE_lab4/input/50A/33794240.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 25
+/home/njucs/SE_lab4/input/50A/33794240.cpp 25
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 42
+/home/njucs/SE_lab4/input/50A/33794240.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/33794240.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 7
+/home/njucs/SE_lab4/input/50A/33794240.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 80
+/home/njucs/SE_lab4/input/50A/33794240.cpp 80
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 55
+/home/njucs/SE_lab4/input/50A/33794240.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/33794240.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 32
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 45
+/home/njucs/SE_lab4/input/50A/33794240.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/33794240.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 13
+/home/njucs/SE_lab4/input/50A/33794240.cpp 13
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 75
+/home/njucs/SE_lab4/input/50A/21508887.cpp 75
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 19
+/home/njucs/SE_lab4/input/50A/21508887.cpp 19
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 14
+/home/njucs/SE_lab4/input/50A/21508887.cpp 14
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 52
+/home/njucs/SE_lab4/input/50A/21508887.cpp 52
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 60
+/home/njucs/SE_lab4/input/50A/21508887.cpp 60
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 16
+/home/njucs/SE_lab4/input/50A/21508887.cpp 16
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 90
+/home/njucs/SE_lab4/input/50A/21508887.cpp 90
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 33
+/home/njucs/SE_lab4/input/50A/21508887.cpp 33
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+/home/njucs/SE_lab4/input/50A/21508887.cpp 64
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 38
+/home/njucs/SE_lab4/input/50A/21508887.cpp 38
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 37
+/home/njucs/SE_lab4/input/50A/21508887.cpp 37
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 16
+/home/njucs/SE_lab4/input/50A/21508887.cpp 16
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 105
+/home/njucs/SE_lab4/input/50A/21508887.cpp 105
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 24
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+/home/njucs/SE_lab4/input/50A/21508887.cpp 64
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 70
+/home/njucs/SE_lab4/input/50A/21508887.cpp 70
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 97
+/home/njucs/SE_lab4/input/50A/21508887.cpp 97
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 22
+/home/njucs/SE_lab4/input/50A/31034693.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 70
+/home/njucs/SE_lab4/input/50A/31034693.cpp 70
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 84
+/home/njucs/SE_lab4/input/50A/31034693.cpp 84
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 44
+/home/njucs/SE_lab4/input/50A/31034693.cpp 44
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 30
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 19
+/home/njucs/SE_lab4/input/50A/31034693.cpp 19
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 21
+/home/njucs/SE_lab4/input/50A/31034693.cpp 21
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 45
+/home/njucs/SE_lab4/input/50A/31034693.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/31034693.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 0
+/home/njucs/SE_lab4/input/50A/31034693.cpp 0
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 48
+/home/njucs/SE_lab4/input/50A/31034693.cpp 48
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 80
+/home/njucs/SE_lab4/input/50A/31034693.cpp 80
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/31034693.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 64
+/home/njucs/SE_lab4/input/50A/31034693.cpp 64
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 37
+/home/njucs/SE_lab4/input/50A/31034693.cpp 37
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 49
+/home/njucs/SE_lab4/input/50A/31034693.cpp 49
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/31034693.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 13
+/home/njucs/SE_lab4/input/50A/31034693.cpp 13
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 56
+/home/njucs/SE_lab4/input/50A/29019948.cpp 56
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 90
+/home/njucs/SE_lab4/input/50A/29019948.cpp 90
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 96
+/home/njucs/SE_lab4/input/50A/29019948.cpp 96
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 9
+/home/njucs/SE_lab4/input/50A/29019948.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 21
+/home/njucs/SE_lab4/input/50A/29019948.cpp 21
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/29019948.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 49
+/home/njucs/SE_lab4/input/50A/29019948.cpp 49
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 52
+/home/njucs/SE_lab4/input/50A/29019948.cpp 52
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 15
+/home/njucs/SE_lab4/input/50A/29019948.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 112
+/home/njucs/SE_lab4/input/50A/29019948.cpp 112
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/29019948.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 20
+/home/njucs/SE_lab4/input/50A/29019948.cpp 20
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 55
+/home/njucs/SE_lab4/input/50A/29019948.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 8
+/home/njucs/SE_lab4/input/50A/29019948.cpp 8
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 60
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 55
+/home/njucs/SE_lab4/input/50A/29019948.cpp 55
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 12
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 56
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 63
+/home/njucs/SE_lab4/input/50A/36641065.cpp 63
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 42
+/home/njucs/SE_lab4/input/50A/36641065.cpp 42
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 3
+/home/njucs/SE_lab4/input/50A/36641065.cpp 3
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 10
+/home/njucs/SE_lab4/input/50A/36641065.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 54
+/home/njucs/SE_lab4/input/50A/36641065.cpp 54
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 28
+/home/njucs/SE_lab4/input/50A/36641065.cpp 28
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 19
+/home/njucs/SE_lab4/input/50A/36641065.cpp 19
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 56
+/home/njucs/SE_lab4/input/50A/36641065.cpp 56
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 30
+/home/njucs/SE_lab4/input/50A/36641065.cpp 30
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 48
+/home/njucs/SE_lab4/input/50A/36641065.cpp 48
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 35
+/home/njucs/SE_lab4/input/50A/36641065.cpp 35
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 14
+/home/njucs/SE_lab4/input/50A/36641065.cpp 14
+
+/home/njucs/SE_lab4/input/50A/21508898.cpp 58
+/home/njucs/SE_lab4/input/50A/36641065.cpp 58
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 22
+/home/njucs/SE_lab4/input/50A/33794240.cpp 22
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 90
+/home/njucs/SE_lab4/input/50A/33794240.cpp 90
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 17
+/home/njucs/SE_lab4/input/50A/33794240.cpp 17
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 78
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 75
+/home/njucs/SE_lab4/input/50A/33794240.cpp 75
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 58
+/home/njucs/SE_lab4/input/50A/33794240.cpp 58
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 66
+/home/njucs/SE_lab4/input/50A/33794240.cpp 66
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 18
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 31
+/home/njucs/SE_lab4/input/50A/33794240.cpp 31
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 28
+/home/njucs/SE_lab4/input/50A/33794240.cpp 28
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 42
+/home/njucs/SE_lab4/input/50A/33794240.cpp 42
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 105
+/home/njucs/SE_lab4/input/50A/33794240.cpp 105
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 18
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 71
+/home/njucs/SE_lab4/input/50A/33794240.cpp 71
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 6
+/home/njucs/SE_lab4/input/50A/33794240.cpp 6
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 27
+/home/njucs/SE_lab4/input/50A/33794240.cpp 27
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 66
+/home/njucs/SE_lab4/input/50A/33794240.cpp 66
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 67
+/home/njucs/SE_lab4/input/50A/33794240.cpp 67
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 28
+/home/njucs/SE_lab4/input/50A/33794240.cpp 28
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 52
+/home/njucs/SE_lab4/input/50A/21508887.cpp 52
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 4
+/home/njucs/SE_lab4/input/50A/21508887.cpp 4
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 54
+/home/njucs/SE_lab4/input/50A/21508887.cpp 54
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 2
+/home/njucs/SE_lab4/input/50A/21508887.cpp 2
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 16
+/home/njucs/SE_lab4/input/50A/21508887.cpp 16
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 56
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/21508887.cpp 24
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 7
+/home/njucs/SE_lab4/input/50A/21508887.cpp 7
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 21
+/home/njucs/SE_lab4/input/50A/21508887.cpp 21
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 56
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 84
+/home/njucs/SE_lab4/input/50A/21508887.cpp 84
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 36
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 21
+/home/njucs/SE_lab4/input/50A/21508887.cpp 21
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 6
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 45
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 88
+/home/njucs/SE_lab4/input/50A/21508887.cpp 88
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 13
+/home/njucs/SE_lab4/input/50A/21508887.cpp 13
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 78
+/home/njucs/SE_lab4/input/50A/21508887.cpp 78
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 28
+/home/njucs/SE_lab4/input/50A/21508887.cpp 28
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 44
+/home/njucs/SE_lab4/input/50A/31034693.cpp 44
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 49
+/home/njucs/SE_lab4/input/50A/31034693.cpp 49
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 3
+/home/njucs/SE_lab4/input/50A/31034693.cpp 3
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 6
+/home/njucs/SE_lab4/input/50A/31034693.cpp 6
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 21
+/home/njucs/SE_lab4/input/50A/31034693.cpp 21
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 70
+/home/njucs/SE_lab4/input/50A/31034693.cpp 70
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 60
+/home/njucs/SE_lab4/input/50A/31034693.cpp 60
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 9
+/home/njucs/SE_lab4/input/50A/31034693.cpp 9
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 16
+/home/njucs/SE_lab4/input/50A/31034693.cpp 16
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 20
+/home/njucs/SE_lab4/input/50A/31034693.cpp 20
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 11
+/home/njucs/SE_lab4/input/50A/31034693.cpp 11
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 6
+/home/njucs/SE_lab4/input/50A/31034693.cpp 6
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 30
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 52
+/home/njucs/SE_lab4/input/50A/31034693.cpp 52
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 36
+/home/njucs/SE_lab4/input/50A/31034693.cpp 36
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 14
+/home/njucs/SE_lab4/input/50A/31034693.cpp 14
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 54
+/home/njucs/SE_lab4/input/50A/31034693.cpp 54
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 48
+/home/njucs/SE_lab4/input/50A/29019948.cpp 48
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 4
+/home/njucs/SE_lab4/input/50A/29019948.cpp 4
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 65
+/home/njucs/SE_lab4/input/50A/29019948.cpp 65
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 19
+/home/njucs/SE_lab4/input/50A/29019948.cpp 19
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 40
+/home/njucs/SE_lab4/input/50A/29019948.cpp 40
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 7
+/home/njucs/SE_lab4/input/50A/29019948.cpp 7
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 77
+/home/njucs/SE_lab4/input/50A/29019948.cpp 77
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 16
+/home/njucs/SE_lab4/input/50A/29019948.cpp 16
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 26
+/home/njucs/SE_lab4/input/50A/29019948.cpp 26
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 88
+/home/njucs/SE_lab4/input/50A/29019948.cpp 88
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 60
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 5
+/home/njucs/SE_lab4/input/50A/29019948.cpp 5
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 14
+/home/njucs/SE_lab4/input/50A/29019948.cpp 14
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 78
+/home/njucs/SE_lab4/input/50A/29019948.cpp 78
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 49
+/home/njucs/SE_lab4/input/50A/29019948.cpp 49
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 66
+/home/njucs/SE_lab4/input/50A/29019948.cpp 66
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 19
+/home/njucs/SE_lab4/input/50A/29019948.cpp 19
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 36
+/home/njucs/SE_lab4/input/50A/29019948.cpp 36
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 105
+/home/njucs/SE_lab4/input/50A/29019948.cpp 105
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 10
+/home/njucs/SE_lab4/input/50A/29019948.cpp 10
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 12
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 12
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 32
+/home/njucs/SE_lab4/input/50A/36641065.cpp 32
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 27
+/home/njucs/SE_lab4/input/50A/36641065.cpp 27
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 1
+/home/njucs/SE_lab4/input/50A/36641065.cpp 1
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 1
+/home/njucs/SE_lab4/input/50A/36641065.cpp 1
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 12
+/home/njucs/SE_lab4/input/50A/36641065.cpp 12
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 3
+/home/njucs/SE_lab4/input/50A/36641065.cpp 3
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 49
+/home/njucs/SE_lab4/input/50A/36641065.cpp 49
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 16
+/home/njucs/SE_lab4/input/50A/36641065.cpp 16
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 77
+/home/njucs/SE_lab4/input/50A/36641065.cpp 77
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 27
+/home/njucs/SE_lab4/input/50A/36641065.cpp 27
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 44
+/home/njucs/SE_lab4/input/50A/36641065.cpp 44
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 15
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 20
+/home/njucs/SE_lab4/input/50A/36641065.cpp 20
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 21
+/home/njucs/SE_lab4/input/50A/36641065.cpp 21
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 48
+/home/njucs/SE_lab4/input/50A/36641065.cpp 48
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 105
+/home/njucs/SE_lab4/input/50A/36641065.cpp 105
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 8
+/home/njucs/SE_lab4/input/50A/36641065.cpp 8
+
+/home/njucs/SE_lab4/input/50A/164831265.cpp 7
+/home/njucs/SE_lab4/input/50A/36641065.cpp 7
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 15
+/home/njucs/SE_lab4/input/50A/21508887.cpp 15
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 3
+/home/njucs/SE_lab4/input/50A/21508887.cpp 3
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 8
+/home/njucs/SE_lab4/input/50A/21508887.cpp 8
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 40
+/home/njucs/SE_lab4/input/50A/21508887.cpp 40
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 4
+/home/njucs/SE_lab4/input/50A/21508887.cpp 4
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 31
+/home/njucs/SE_lab4/input/50A/21508887.cpp 31
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 10
+/home/njucs/SE_lab4/input/50A/21508887.cpp 10
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 72
+/home/njucs/SE_lab4/input/50A/21508887.cpp 72
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 13
+/home/njucs/SE_lab4/input/50A/21508887.cpp 13
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 54
+/home/njucs/SE_lab4/input/50A/21508887.cpp 54
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 21
+/home/njucs/SE_lab4/input/50A/21508887.cpp 21
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 27
+/home/njucs/SE_lab4/input/50A/21508887.cpp 27
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 2
+/home/njucs/SE_lab4/input/50A/21508887.cpp 2
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 75
+/home/njucs/SE_lab4/input/50A/21508887.cpp 75
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 36
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 31
+/home/njucs/SE_lab4/input/50A/21508887.cpp 31
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 63
+/home/njucs/SE_lab4/input/50A/21508887.cpp 63
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 18
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 78
+/home/njucs/SE_lab4/input/50A/21508887.cpp 78
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 120
+/home/njucs/SE_lab4/input/50A/31034693.cpp 120
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 42
+/home/njucs/SE_lab4/input/50A/31034693.cpp 42
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 28
+/home/njucs/SE_lab4/input/50A/31034693.cpp 28
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 21
+/home/njucs/SE_lab4/input/50A/31034693.cpp 21
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 80
+/home/njucs/SE_lab4/input/50A/31034693.cpp 80
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 77
+/home/njucs/SE_lab4/input/50A/31034693.cpp 77
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 11
+/home/njucs/SE_lab4/input/50A/31034693.cpp 11
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 39
+/home/njucs/SE_lab4/input/50A/31034693.cpp 39
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 82
+/home/njucs/SE_lab4/input/50A/31034693.cpp 82
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 88
+/home/njucs/SE_lab4/input/50A/31034693.cpp 88
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 66
+/home/njucs/SE_lab4/input/50A/31034693.cpp 66
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 45
+/home/njucs/SE_lab4/input/50A/31034693.cpp 45
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 48
+/home/njucs/SE_lab4/input/50A/31034693.cpp 48
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 15
+/home/njucs/SE_lab4/input/50A/31034693.cpp 15
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 12
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 52
+/home/njucs/SE_lab4/input/50A/31034693.cpp 52
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 6
+/home/njucs/SE_lab4/input/50A/31034693.cpp 6
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 7
+/home/njucs/SE_lab4/input/50A/29019948.cpp 7
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 9
+/home/njucs/SE_lab4/input/50A/29019948.cpp 9
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 9
+/home/njucs/SE_lab4/input/50A/29019948.cpp 9
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 56
+/home/njucs/SE_lab4/input/50A/29019948.cpp 56
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 14
+/home/njucs/SE_lab4/input/50A/29019948.cpp 14
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 48
+/home/njucs/SE_lab4/input/50A/29019948.cpp 48
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 2
+/home/njucs/SE_lab4/input/50A/29019948.cpp 2
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 38
+/home/njucs/SE_lab4/input/50A/29019948.cpp 38
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 30
+/home/njucs/SE_lab4/input/50A/29019948.cpp 30
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 9
+/home/njucs/SE_lab4/input/50A/29019948.cpp 9
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 49
+/home/njucs/SE_lab4/input/50A/29019948.cpp 49
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 35
+/home/njucs/SE_lab4/input/50A/29019948.cpp 35
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 55
+/home/njucs/SE_lab4/input/50A/29019948.cpp 55
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 71
+/home/njucs/SE_lab4/input/50A/29019948.cpp 71
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 32
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 15
+/home/njucs/SE_lab4/input/50A/29019948.cpp 15
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 38
+/home/njucs/SE_lab4/input/50A/29019948.cpp 38
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 60
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 40
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 72
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 70
+/home/njucs/SE_lab4/input/50A/36641065.cpp 70
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 75
+/home/njucs/SE_lab4/input/50A/36641065.cpp 75
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 112
+/home/njucs/SE_lab4/input/50A/36641065.cpp 112
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 9
+/home/njucs/SE_lab4/input/50A/36641065.cpp 9
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 20
+/home/njucs/SE_lab4/input/50A/36641065.cpp 20
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 10
+/home/njucs/SE_lab4/input/50A/36641065.cpp 10
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 45
+/home/njucs/SE_lab4/input/50A/36641065.cpp 45
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 5
+/home/njucs/SE_lab4/input/50A/36641065.cpp 5
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 6
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 14
+/home/njucs/SE_lab4/input/50A/36641065.cpp 14
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 105
+/home/njucs/SE_lab4/input/50A/36641065.cpp 105
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 91
+/home/njucs/SE_lab4/input/50A/36641065.cpp 91
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 30
+/home/njucs/SE_lab4/input/50A/36641065.cpp 30
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 14
+/home/njucs/SE_lab4/input/50A/36641065.cpp 14
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 7
+/home/njucs/SE_lab4/input/50A/36641065.cpp 7
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 6
+
+/home/njucs/SE_lab4/input/50A/33794240.cpp 71
+/home/njucs/SE_lab4/input/50A/36641065.cpp 71
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 16
+/home/njucs/SE_lab4/input/50A/31034693.cpp 16
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 35
+/home/njucs/SE_lab4/input/50A/31034693.cpp 35
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+/home/njucs/SE_lab4/input/50A/31034693.cpp 56
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 4
+/home/njucs/SE_lab4/input/50A/31034693.cpp 4
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 28
+/home/njucs/SE_lab4/input/50A/31034693.cpp 28
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+/home/njucs/SE_lab4/input/50A/31034693.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 35
+/home/njucs/SE_lab4/input/50A/31034693.cpp 35
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 18
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 48
+/home/njucs/SE_lab4/input/50A/31034693.cpp 48
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 0
+/home/njucs/SE_lab4/input/50A/31034693.cpp 0
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 10
+/home/njucs/SE_lab4/input/50A/31034693.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 38
+/home/njucs/SE_lab4/input/50A/31034693.cpp 38
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 28
+/home/njucs/SE_lab4/input/50A/31034693.cpp 28
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 8
+/home/njucs/SE_lab4/input/50A/31034693.cpp 8
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 80
+/home/njucs/SE_lab4/input/50A/31034693.cpp 80
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 7
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 49
+/home/njucs/SE_lab4/input/50A/31034693.cpp 49
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 98
+/home/njucs/SE_lab4/input/50A/31034693.cpp 98
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 7
+/home/njucs/SE_lab4/input/50A/29019948.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 33
+/home/njucs/SE_lab4/input/50A/29019948.cpp 33
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 75
+/home/njucs/SE_lab4/input/50A/29019948.cpp 75
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 7
+/home/njucs/SE_lab4/input/50A/29019948.cpp 7
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 14
+/home/njucs/SE_lab4/input/50A/29019948.cpp 14
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 13
+/home/njucs/SE_lab4/input/50A/29019948.cpp 13
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 105
+/home/njucs/SE_lab4/input/50A/29019948.cpp 105
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 1
+/home/njucs/SE_lab4/input/50A/29019948.cpp 1
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+/home/njucs/SE_lab4/input/50A/29019948.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+/home/njucs/SE_lab4/input/50A/29019948.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 10
+/home/njucs/SE_lab4/input/50A/29019948.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 31
+/home/njucs/SE_lab4/input/50A/29019948.cpp 31
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 48
+/home/njucs/SE_lab4/input/50A/29019948.cpp 48
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 84
+/home/njucs/SE_lab4/input/50A/29019948.cpp 84
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 22
+/home/njucs/SE_lab4/input/50A/29019948.cpp 22
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 98
+/home/njucs/SE_lab4/input/50A/29019948.cpp 98
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+/home/njucs/SE_lab4/input/50A/29019948.cpp 56
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 13
+/home/njucs/SE_lab4/input/50A/29019948.cpp 13
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 77
+/home/njucs/SE_lab4/input/50A/29019948.cpp 77
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 56
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 105
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+/home/njucs/SE_lab4/input/50A/36641065.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 40
+/home/njucs/SE_lab4/input/50A/36641065.cpp 40
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 32
+/home/njucs/SE_lab4/input/50A/36641065.cpp 32
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 6
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 1
+/home/njucs/SE_lab4/input/50A/36641065.cpp 1
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 15
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 9
+/home/njucs/SE_lab4/input/50A/36641065.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 45
+/home/njucs/SE_lab4/input/50A/36641065.cpp 45
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 15
+/home/njucs/SE_lab4/input/50A/36641065.cpp 15
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 96
+/home/njucs/SE_lab4/input/50A/36641065.cpp 96
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 120
+/home/njucs/SE_lab4/input/50A/36641065.cpp 120
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 12
+/home/njucs/SE_lab4/input/50A/36641065.cpp 12
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 96
+/home/njucs/SE_lab4/input/50A/36641065.cpp 96
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 67
+/home/njucs/SE_lab4/input/50A/36641065.cpp 67
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 10
+/home/njucs/SE_lab4/input/50A/36641065.cpp 10
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 36
+/home/njucs/SE_lab4/input/50A/36641065.cpp 36
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 66
+/home/njucs/SE_lab4/input/50A/36641065.cpp 66
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 20
+/home/njucs/SE_lab4/input/50A/36641065.cpp 20
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 9
+/home/njucs/SE_lab4/input/50A/36641065.cpp 9
+
+/home/njucs/SE_lab4/input/50A/21508887.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 6
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+/home/njucs/SE_lab4/input/50A/29019948.cpp 24
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 96
+/home/njucs/SE_lab4/input/50A/29019948.cpp 96
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 38
+/home/njucs/SE_lab4/input/50A/29019948.cpp 38
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+/home/njucs/SE_lab4/input/50A/29019948.cpp 24
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 88
+/home/njucs/SE_lab4/input/50A/29019948.cpp 88
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 1
+/home/njucs/SE_lab4/input/50A/29019948.cpp 1
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 6
+/home/njucs/SE_lab4/input/50A/29019948.cpp 6
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 91
+/home/njucs/SE_lab4/input/50A/29019948.cpp 91
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 120
+/home/njucs/SE_lab4/input/50A/29019948.cpp 120
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+/home/njucs/SE_lab4/input/50A/29019948.cpp 24
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 32
+/home/njucs/SE_lab4/input/50A/29019948.cpp 32
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 42
+/home/njucs/SE_lab4/input/50A/29019948.cpp 42
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 12
+/home/njucs/SE_lab4/input/50A/29019948.cpp 12
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 9
+/home/njucs/SE_lab4/input/50A/29019948.cpp 9
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 55
+/home/njucs/SE_lab4/input/50A/29019948.cpp 55
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 33
+/home/njucs/SE_lab4/input/50A/29019948.cpp 33
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 4
+/home/njucs/SE_lab4/input/50A/29019948.cpp 4
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 112
+/home/njucs/SE_lab4/input/50A/29019948.cpp 112
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 36
+/home/njucs/SE_lab4/input/50A/29019948.cpp 36
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 2
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 9
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 36
+/home/njucs/SE_lab4/input/50A/36641065.cpp 36
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 13
+/home/njucs/SE_lab4/input/50A/36641065.cpp 13
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 104
+/home/njucs/SE_lab4/input/50A/36641065.cpp 104
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 21
+/home/njucs/SE_lab4/input/50A/36641065.cpp 21
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 24
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 112
+/home/njucs/SE_lab4/input/50A/36641065.cpp 112
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 11
+/home/njucs/SE_lab4/input/50A/36641065.cpp 11
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 7
+/home/njucs/SE_lab4/input/50A/36641065.cpp 7
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 71
+/home/njucs/SE_lab4/input/50A/36641065.cpp 71
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 22
+/home/njucs/SE_lab4/input/50A/36641065.cpp 22
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 65
+/home/njucs/SE_lab4/input/50A/36641065.cpp 65
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 1
+/home/njucs/SE_lab4/input/50A/36641065.cpp 1
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 2
+/home/njucs/SE_lab4/input/50A/36641065.cpp 2
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 38
+/home/njucs/SE_lab4/input/50A/36641065.cpp 38
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 91
+/home/njucs/SE_lab4/input/50A/36641065.cpp 91
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 54
+/home/njucs/SE_lab4/input/50A/36641065.cpp 54
+
+/home/njucs/SE_lab4/input/50A/31034693.cpp 30
+/home/njucs/SE_lab4/input/50A/36641065.cpp 30
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 35
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 63
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 4
+/home/njucs/SE_lab4/input/50A/36641065.cpp 4
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 30
+/home/njucs/SE_lab4/input/50A/36641065.cpp 30
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 40
+/home/njucs/SE_lab4/input/50A/36641065.cpp 40
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 16
+/home/njucs/SE_lab4/input/50A/36641065.cpp 16
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 84
+/home/njucs/SE_lab4/input/50A/36641065.cpp 84
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 78
+/home/njucs/SE_lab4/input/50A/36641065.cpp 78
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 112
+/home/njucs/SE_lab4/input/50A/36641065.cpp 112
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 26
+/home/njucs/SE_lab4/input/50A/36641065.cpp 26
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 80
+/home/njucs/SE_lab4/input/50A/36641065.cpp 80
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 112
+/home/njucs/SE_lab4/input/50A/36641065.cpp 112
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 27
+/home/njucs/SE_lab4/input/50A/36641065.cpp 27
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 84
+/home/njucs/SE_lab4/input/50A/36641065.cpp 84
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 18
+/home/njucs/SE_lab4/input/50A/36641065.cpp 18
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 6
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+/home/njucs/SE_lab4/input/50A/36641065.cpp 60
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 6
+/home/njucs/SE_lab4/input/50A/36641065.cpp 6
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 105
+/home/njucs/SE_lab4/input/50A/36641065.cpp 105
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 48
+/home/njucs/SE_lab4/input/50A/36641065.cpp 48
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 60
+/home/njucs/SE_lab4/input/50A/36641065.cpp 60
+
+/home/njucs/SE_lab4/input/50A/29019948.cpp 14
+/home/njucs/SE_lab4/input/50A/36641065.cpp 14
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+
+/home/njucs/SE_lab4/input/50A/138805414.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 24
+
+/home/njucs/SE_lab4/input/50A/30534178.cpp 
+/home/njucs/SE_lab4/input/50A/36641065.cpp 71
+

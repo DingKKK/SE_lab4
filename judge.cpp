@@ -1,7 +1,7 @@
 #include"judge.h"
 #include<iostream>
 #include<fstream>
-#define M 1
+#define M 5
 using namespace std;
 void Judge::judge(string path, string file1, string file2)
 {
@@ -15,8 +15,9 @@ void Judge::judge(string path, string file1, string file2)
         execute.execution(path,file2,2);
         if (!output.outputComparison(path))
         {
-            string inequalfile = "/home/njucs/SE_lab4/output/inequal.csv";
+            string inequalfile = "./output/inequal.csv";
             ofstream file(inequalfile, ios::app);
+            if(!file) exit(-1);
             file << file1 + "," + file2<<endl;
             file.close();
             flag=1;
@@ -25,8 +26,9 @@ void Judge::judge(string path, string file1, string file2)
     }
     if(flag==0)
     {
-        string equalfile = "/home/njucs/SE_lab4/output/equal.csv";
+        string equalfile = "./output/equal.csv";
         ofstream file(equalfile, ios::app);
+        if(!file) exit(-1);
         file << file1 + "," + file2<<endl;
         file.close();
     }
